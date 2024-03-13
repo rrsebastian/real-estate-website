@@ -80,6 +80,7 @@
 
 .country-dropdown-container select {
   cursor: pointer;
+  color: black;
 }
 
 .price-currency-wrapper {

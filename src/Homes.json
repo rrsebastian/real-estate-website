@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Modern Villa with Ocean View",
+    "description": "Spacious modern villa with panoramic views of the ocean. This luxurious property features state-of-the-art amenities and a private pool.",
+    "price": "$1,200,000",
+    "rooms": 7,
+    "image": "https://www.home-designing.com/wp-content/uploads/2013/03/modern-mountain-ocean-view-villa-with-pool.jpeg",
+    "country": "United States"
+  },
+  {
+    "title": "Cozy Cottage in the Countryside",
+    "description": "Charming cottage nestled in the serene countryside. Perfect for those seeking a peaceful retreat surrounded by nature.",
+    "price": "$350,000",
+    "rooms": 3,
+    "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjByd3MxNzJjbHNqaC1BUEwiLCJ3IjpbeyJmbiI6ImVudmZxcWUxYXk0azEtQVBMIiwicyI6IjE0IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.5eez_PgyWzViNebOJ_hA9Fz9gPFCBnZLwtI9h7BpquY/image;s=1280x1024;q=80",
+    "country": "United Kingdom"
+  },
+  {
+    "title": "City Loft with Skyline Views",
+    "description": "Stylish loft in the heart of the city, offering breathtaking views of the skyline. Close to amenities and vibrant city life.",
+    "price": "$800,000",
+    "rooms": 5,
+    "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6ImEwc3lieHJqdDl4MTEtQVBMIiwidyI6W3siZm4iOiJlbnZmcXFlMWF5NGsxLUFQTCIsInMiOiIxNCIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.oVdIOco_va0cl1OySoJH6yYgM2SPxbkMkJneg_EUPlM/image;s=1280x1024;q=80",
+    "country": "France"
+  },
+  {
+    "title": "Rustic Mountain Cabin",
+    "description": "Quaint cabin nestled in the mountains, perfect for those seeking a rustic and cozy atmosphere. Surrounded by scenic beauty.",
+    "price": "$250,000",
+    "rooms": 2,
+    "image": "https://www.cabinhomes.com/uploads/1-web-or-mls-10312%20US%20Hwy%20340%20N-001.JPG",
+    "country": "Canada"
+  },
+  {
+    "title": "Luxury Penthouse with Terrace",
+    "description": "Opulent penthouse with a spacious terrace. Enjoy high-end living and spectacular views in this exclusive property.",
+    "price": "$1,800,000",
+    "rooms": 9,
+    "image": "https://www.realestate.com.au/news-image/w_1920,h_1200/v1657696293/news-lifestyle-content-assets/wp-content/production/HOLD9998_Cobden-St_IN12_Double-Height-Penthouse-Void.jpg?_i=AA",
+    "country": "Australia"
+  },
+  {
+    "title": "Beachfront Bungalow",
+    "description": "Quaint beachfront bungalow with direct access to the sandy shores. Perfect for those who love the sun, sea, and sand.",
+    "price": "$500,000",
+    "rooms": 4,
+    "image": "https://images2.dwell.com/photos/6063391372700811264/6133586265665986560/original.jpg?auto=format&q=35&w=1120",
+    "country": "Spain"
+  },
+  {
+    "title": "Classic Colonial Estate",
+    "description": "Elegant colonial-style estate with timeless architecture. This grand property boasts spacious interiors and a lush garden.",
+    "price": "$1,500,000",
+    "rooms": 8,
+    "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6IjdobXpocmFzb29rLUFQTCIsInciOlt7ImZuIjoiZW52ZnFxZTFheTRrMS1BUEwiLCJzIjoiMTQiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.GFuADYEBdXIh-tp-X2i9swyYi2gbSTjPlrtksgAuw40/image;s=1280x1024;q=80",
+    "country": "India"
+  },
+  {
+    "title": "Sustainable Urban Residence",
+    "description": "Modern residence with sustainable features. This eco-friendly home combines style with a commitment to the environment.",
+    "price": "$650,000",
+    "rooms": 5,
+    "image": "https://cdn.onekindesign.com/wp-content/uploads/2022/01/Contemporary-Home-Design-BLA-Design-Group-14-1-Kindesign.jpg",
+    "country": "Germany"
+  },
+  {
+    "title": "Historic Townhouse with Character",
+    "description": "Charming historic townhouse with unique architectural details. Experience the charm of a bygone era in this well-preserved property.",
+    "price": "$900,000",
+    "rooms": 5,
+    "image": "https://media.houseandgarden.co.uk/photos/644a9c7223689cbbe1bb9f6d/3:2/w_1788,h_1192,c_limit/Screenshot%202023-04-27%20at%2017.01.50.png",
+    "country": "Poland"
+  },
+  {
+    "title": "Lakefront Retreat with Dock",
+    "description": "Tranquil lakefront retreat with a private dock. Enjoy serene views and water activities in this idyllic lakeside property.",
+    "price": "$700,000",
+    "rooms": 4,
+    "image": "https://images.trvl-media.com/lodging/40000000/39040000/39034600/39034572/e0925567.jpg?impolicy=resizecrop&rw=432&ra=fit",
+    "country": "Japan"
+  }
+]

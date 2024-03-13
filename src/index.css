@@ -1,0 +1,14 @@
+body {
+  font-family: "Sora", Arial;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+.houses-options-wrapper {
+  display: grid;
+  grid-template-columns: 1fr auto;
+}

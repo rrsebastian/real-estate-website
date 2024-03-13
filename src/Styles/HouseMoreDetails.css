@@ -1,0 +1,74 @@
+.house-more-details-container {
+  max-width: 1280px;
+  width: 100%;
+  margin: auto;
+  padding: 60px 0px;
+  gap: 20px;
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+
+.more-details-img-container {
+  position: relative;
+}
+
+.house-more-details-container button {
+  position: absolute;
+  top: -45px;
+  padding: 5px 20px;
+  border: 2px solid black;
+  font-family: "Sora";
+  cursor: pointer;
+  background-color: white;
+  border-radius: 5px;
+  color: black;
+  transition: all 0.2s ease-out;
+  left: 0px;
+}
+
+.house-more-details-container button:hover {
+  background-color: #edeef0;
+}
+
+.house-more-details-container img {
+  width: 844px;
+  height: 440px;
+  object-fit: cover;
+}
+
+.house-more-details-container p {
+  max-width: 844px;
+}
+
+.house-more-details-info-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.more-details-description {
+  line-height: 24px;
+}
+
+.more-details-info {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+@media (max-width: 1320px) {
+  .house-more-details-container {
+    flex-direction: column;
+    margin: initial;
+    padding: 60px 30px;
+  }
+}
+
+@media (max-width: 905px) {
+  .house-more-details-container img {
+    width: 100%;
+    object-fit: contain;
+    height: fit-content;
+  }
+}

@@ -24,7 +24,7 @@ const Home = () => {
   };
 
   const handleToggleLike = (e, title) => {
-    e.stopPropagation(); // Prevents the event from propagating to the link element
+    e.stopPropagation();
 
     setLikedHouses((prevLikedHouses) => {
       if (prevLikedHouses.includes(title)) {

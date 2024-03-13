@@ -34,6 +34,16 @@
   transition: all 0.25s ease-out;
 }
 
+.country-dropdown-container select {
+  background-image: url("../assets/arrow-down-icon.png");
+  background-size: 9px;
+  background-position: calc(100% - 20px) center;
+  background-repeat: no-repeat;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
 .price-input-wrapper input:hover,
 .country-dropdown-container select:hover {
   background-color: #e2e4e8;

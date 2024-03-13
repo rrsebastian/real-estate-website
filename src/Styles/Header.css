@@ -6,7 +6,8 @@
 
 .header-wrapper {
   border-bottom: 1px solid lightgray;
-  position: sticky;
+  position: fixed;
+  width: 100%;
   top: 0px;
   background-color: white;
   z-index: 20;

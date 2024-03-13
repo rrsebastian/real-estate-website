@@ -2,7 +2,7 @@
   max-width: 1280px;
   width: 100%;
   margin: auto;
-  padding: 60px 0px;
+  padding: 140px 0px;
   gap: 20px;
   display: flex;
   position: relative;
@@ -61,7 +61,7 @@
   .house-more-details-container {
     flex-direction: column;
     margin: initial;
-    padding: 60px 30px;
+    padding: 140px 30px;
   }
 }
 

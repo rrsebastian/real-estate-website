@@ -87,11 +87,7 @@ const Home = () => {
   }, [likedHouses]);
 
   return (
-    <div
-      style={{
-        overflowY: filteredListings.length === 0 ? "hidden" : "auto",
-      }}
-    >
+    <div>
       <Header />
       <HomeOptions
         selectedRooms={selectedRooms}

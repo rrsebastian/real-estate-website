@@ -69,6 +69,6 @@
   .house-more-details-container img {
     width: 100%;
     object-fit: contain;
-    height: fit-content;
+    height: initial;
   }
 }

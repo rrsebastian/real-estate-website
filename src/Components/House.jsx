@@ -14,7 +14,7 @@ const House = ({
   liked,
   handleToggleLike,
 }) => {
-  const handleClick = (e) => {
+  const handleClick = () => {
     if (window.innerWidth < 1320) {
       window.scrollTo(0, 0);
     }

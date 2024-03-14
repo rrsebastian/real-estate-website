@@ -44,7 +44,7 @@ const HomeOptions = ({
       .catch((error) => {
         console.error("Error fetching data:", error);
       });
-  }, [setPriceRange]);
+  }, []);
 
   return (
     <div className="home-options-container">
